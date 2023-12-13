@@ -18,7 +18,7 @@ Além de outros recursos.
 ## 💻 Preview:
 - Veja como ficou o projeto acessando: [nesse link do Github Pages](https://ernandesneponuceno.github.io/Reproduzindo-a-Listagem-do-YouTube-com-Grid-Layout/)
   
-![Imagem do Projeto](assets/Img/tela.png)
+![Imagem do Projeto](assets/img/tela.png)
 
 ## 🤔 O que aprendi com esse projeto:
 - Aprimorar minhas habilidades em HTML e CSS.
