@@ -36,7 +36,7 @@ header {
     margin-right: 24px;
  }
  
- header .notification img {
+.perfil{
     width: 34px;
     height: 34px;
     border-radius: 50%;
@@ -62,6 +62,12 @@ aside {
    align-items: center;
    padding: 0;
 }
+
+.icon {
+   width: 24px;
+  
+}
+
 
 .menu h1{
    margin-left: .625rem;
